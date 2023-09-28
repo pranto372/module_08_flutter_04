@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget{
     return MaterialApp(
       title: "To Do",
       theme: ThemeData(
-        primarySwatch: Colors.amber
+        primarySwatch: Colors.green
       ),
       home: ToDoPage(),
     );
