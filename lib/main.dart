@@ -85,7 +85,7 @@ class MyHomePageUI extends State<MyHomePage>{
                 child: Container(
                   width: 100,
                   height: 100,
-                  color: Colors.white,
+                  color: Colors.black54,
                 )
             ),
           ],
