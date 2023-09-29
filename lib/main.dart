@@ -75,7 +75,7 @@ class MyHomePageUI extends State<MyHomePage>{
                         child: Container(
                           height: 130,
                           width: 140,
-                          child: Image.network("https://media.istockphoto.com/id/1200548447/photo/young-man-taking-a-picture-with-a-dslr-camera-front-shot-at-the-beach-with-copy-space.jpg?s=170667a&w=0&k=20&c=deZRE5yeuCJsCC2Heg5_AlaFyMlqsUbqH9ItuUVqj3I="),
+                          child: Image.network("https://images.pexels.com/photos/225157/pexels-photo-225157.jpeg?cs=srgb&dl=pexels-fox-225157.jpg&fm=jpg"),
                         ),
                       ),
                       Padding(
@@ -83,7 +83,7 @@ class MyHomePageUI extends State<MyHomePage>{
                         child: Container(
                           height: 130,
                           width: 140,
-                          child: Image.network("https://media.istockphoto.com/id/1200548447/photo/young-man-taking-a-picture-with-a-dslr-camera-front-shot-at-the-beach-with-copy-space.jpg?s=170667a&w=0&k=20&c=deZRE5yeuCJsCC2Heg5_AlaFyMlqsUbqH9ItuUVqj3I="),
+                          child: Image.network("https://images.pexels.com/photos/225157/pexels-photo-225157.jpeg?cs=srgb&dl=pexels-fox-225157.jpg&fm=jpg"),
                         ),
                       ),
                       Padding(
@@ -91,7 +91,7 @@ class MyHomePageUI extends State<MyHomePage>{
                         child: Container(
                           height: 130,
                           width: 140,
-                          child: Image.network("https://media.istockphoto.com/id/1200548447/photo/young-man-taking-a-picture-with-a-dslr-camera-front-shot-at-the-beach-with-copy-space.jpg?s=170667a&w=0&k=20&c=deZRE5yeuCJsCC2Heg5_AlaFyMlqsUbqH9ItuUVqj3I="),
+                          child: Image.network("https://images.pexels.com/photos/225157/pexels-photo-225157.jpeg?cs=srgb&dl=pexels-fox-225157.jpg&fm=jpg"),
                         ),
                       )
                     ],
@@ -112,7 +112,7 @@ class MyHomePageUI extends State<MyHomePage>{
                         child: Container(
                           height: 130,
                           width: 140,
-                          child: Image.network("https://media.istockphoto.com/id/1200548447/photo/young-man-taking-a-picture-with-a-dslr-camera-front-shot-at-the-beach-with-copy-space.jpg?s=170667a&w=0&k=20&c=deZRE5yeuCJsCC2Heg5_AlaFyMlqsUbqH9ItuUVqj3I="),
+                          child: Image.network("https://images.pexels.com/photos/225157/pexels-photo-225157.jpeg?cs=srgb&dl=pexels-fox-225157.jpg&fm=jpg"),
                         ),
                       ),
                       Padding(
@@ -120,7 +120,7 @@ class MyHomePageUI extends State<MyHomePage>{
                         child: Container(
                           height: 130,
                           width: 140,
-                          child: Image.network("https://media.istockphoto.com/id/1200548447/photo/young-man-taking-a-picture-with-a-dslr-camera-front-shot-at-the-beach-with-copy-space.jpg?s=170667a&w=0&k=20&c=deZRE5yeuCJsCC2Heg5_AlaFyMlqsUbqH9ItuUVqj3I="),
+                          child: Image.network("https://images.pexels.com/photos/225157/pexels-photo-225157.jpeg?cs=srgb&dl=pexels-fox-225157.jpg&fm=jpg"),
                         ),
                       ),
                       Padding(
@@ -128,14 +128,14 @@ class MyHomePageUI extends State<MyHomePage>{
                         child: Container(
                           height: 130,
                           width: 140,
-                          child: Image.network("https://media.istockphoto.com/id/1200548447/photo/young-man-taking-a-picture-with-a-dslr-camera-front-shot-at-the-beach-with-copy-space.jpg?s=170667a&w=0&k=20&c=deZRE5yeuCJsCC2Heg5_AlaFyMlqsUbqH9ItuUVqj3I="),
+                          child: Image.network("https://images.pexels.com/photos/225157/pexels-photo-225157.jpeg?cs=srgb&dl=pexels-fox-225157.jpg&fm=jpg"),
                         ),
                       )
                     ],
                   ),
                 ),
               ),
-            )
+            ),
           ],
         ),
       )
